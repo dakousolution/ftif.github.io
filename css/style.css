@@ -75,8 +75,8 @@ body.static {
 .navbar a {
 	font-family: 'Helvetica New';
 }
-.navbar > img{
-	margin-top: -30px;
+navbar-brand img {
+	width: 85px;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -1072,8 +1072,11 @@ footer p {
 }
 
 footer img.logo-white {
-	height:23px;
+	height:85px;
 	margin-bottom:20px;
+}
+footer .col-md-3 col-sm-6 p{
+	margin-left: 20px;
 }
 
 footer .twitter-feed:before {
