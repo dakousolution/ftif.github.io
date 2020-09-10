@@ -75,7 +75,7 @@ body.static {
 .navbar a {
 	font-family: 'Helvetica New';
 }
-navbar-brand img {
+.navbar-brand img {
 	margin-top -30px;
 }
 
